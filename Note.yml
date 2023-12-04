@@ -1,0 +1,5 @@
+* Sync-Cetral-API: 192.168.0.1: 3001
+
+* Sync-Local-API : 192.168.0.1: 5001
+- /users
+    axios.post('192.168.0.1:3001', {'port': 'PHN'})
